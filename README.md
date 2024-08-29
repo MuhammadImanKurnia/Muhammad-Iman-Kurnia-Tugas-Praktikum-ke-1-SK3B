@@ -7,7 +7,7 @@ NIM  : 09011282328044
 
 Kelas: SK3B
 
-1. Karena saya memakai linux virtual box, maka ada dua yang harus di download, yaitu file iso linux ubuntu desktop 20.04.1 LTS dan aplikasi VirtualBox
+1. Karena kita ingin menggunakan linux di virtual box, maka ada dua yang harus di download, yaitu file iso linux ubuntu desktop 20.04.1 LTS dan aplikasi VirtualBox
    Link file iso linux ubuntu : https://ubuntu.com/download/desktop
    Link aplikasi VirtualBox   : https://www.virtualbox.org/wiki/Downloads
-2. 
+2. Jika sudah selesai mendownload dua tersebut, langkah selanjutnya adalah membuka aplikasi VirtualBox
