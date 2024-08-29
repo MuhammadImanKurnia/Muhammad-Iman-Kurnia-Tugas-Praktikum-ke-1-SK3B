@@ -13,4 +13,5 @@ Kelas: SK3B
 2. Jika sudah selesai mendownload dua tersebut, langkah selanjutnya adalah membuka aplikasi VirtualBox
    ![Screenshot 2024-08-29 185051](https://github.com/user-attachments/assets/4432ab94-b588-44f5-b790-b2285a7214ce)
 3. Setelah dibuka, klik pilihan new, lalu tampilannya akan seperti di bawah ini :
-   
+   ![Screenshot 2024-08-29 185123](https://github.com/user-attachments/assets/de13f7bf-7e42-46e0-b77d-7255cc5fb215)
+4. Selanjutnya isi nama, pilih lokasi folder untuk menyimpan linux, dan pada iso image, pilih file iso linux yang sudah kita download
