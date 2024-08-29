@@ -11,3 +11,6 @@ Kelas: SK3B
    Link file iso linux ubuntu : https://ubuntu.com/download/desktop
    Link aplikasi VirtualBox   : https://www.virtualbox.org/wiki/Downloads
 2. Jika sudah selesai mendownload dua tersebut, langkah selanjutnya adalah membuka aplikasi VirtualBox
+   ![Screenshot 2024-08-29 185051](https://github.com/user-attachments/assets/4432ab94-b588-44f5-b790-b2285a7214ce)
+3. Setelah dibuka, klik pilihan new, lalu tampilannya akan seperti di bawah ini :
+   
