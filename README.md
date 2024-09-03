@@ -7,6 +7,11 @@ NIM  : 09011282328044
 
 Kelas: SK3B
 
+
+SOAL NO 1
+
+- Buatlah laporan proses instalasi di computer mahasiswa dan tampilkan screenshotnya!
+Jawab :
 1. Karena kita ingin menggunakan linux di virtual box, maka ada dua yang harus di download, yaitu file iso linux ubuntu desktop 20.04.1 LTS dan aplikasi VirtualBox
    Link file iso linux ubuntu : https://ubuntu.com/download/desktop
    Link aplikasi VirtualBox   : https://www.virtualbox.org/wiki/Downloads
@@ -68,12 +73,29 @@ Kelas: SK3B
 19. Dan terakhir klik install.
     ![Screenshot from 2024-08-29 19-04-58](https://github.com/user-attachments/assets/ecac0637-cdeb-4c58-a09a-b5bba03dfe39)
 
-    Proses instalasinya ini memerlukan waktu yang cukup lama, jadi manfaatkan waktunya selagi menunggu dengan belajar atau melakukan hal yang bermanfaat lainnya (biso maen mobile legend 2 match woilah)
+    Proses instalasinya ini memerlukan waktu yang cukup lama, jadi manfaatkan waktunya selagi menunggu dengan belajar atau melakukan hal yang bermanfaat lainnya (biso maen mobile legend 2 match woilah😹)
 
 
 
+SOAL NO 2 :
+
+- Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?
+Jawab :
+Memilih `"/"`sebagai `"Mount point"` dalam instalasi Linux sangat penting karena beberapa alasan yang berkaitan dengan struktur direktori dan pengelolaan sistem operasi. `"/"` adalah direktori root, yang merupakan dasar dari seluruh struktur sistem file di Linux. Semua direktori lain, seperti `/home`, `/var`, dan `/usr`, berada di bawah `"/"`. Tanpa memilih `"/"` sebagai Mount Point, sistem operasi tidak akan bisa menemukan file penting yang diperlukan untuk booting, yang akan menyebabkan kegagalan dalam memulai sistem. Selain itu, memilih `"/"` sebagai Mount Point memastikan bahwa partisi ini dialokasikan untuk semua file sistem dasar dan aplikasi yang diinstal, yang memungkinkan manajemen ruang penyimpanan yang efisien. Hal ini juga memungkinkan untuk memisahkan file sistem dari file pengguna, yang dapat meningkatkan keamanan dan stabilitas sistem. Dengan demikian, memilih `"/"` sebagai Mount Point adalah langkah penting untuk memastikan bahwa sistem Linux berfungsi dengan baik, efisien, dan terorganisir dengan benar.
 
 
+
+SOAL NO 3
+
+- Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs!
+Jawab :
+Ketika Anda menginstal Linux, Anda akan sering berhadapan dengan berbagai jenis sistem berkas (filesystem) dan partisi yang memiliki fungsi dan karakteristik berbeda. Berikut penjelasan singkat tentang masing-masing :
+1. ext4: Sistem berkas default di Linux, mendukung file besar dan journaling. Digunakan untuk partisi utama seperti / dan home.
+2. ext3: Pendahulu ext4 dengan fitur journaling, tapi lebih lambat dan kurang efisien. Kini umumnya digantikan oleh ext4.
+3. Swap: Partisi atau file khusus yang digunakan sebagai memori virtual untuk mendukung RAM fisik, membantu mencegah crash saat RAM penuh.
+4. NTFS: Sistem berkas Windows, kompatibel dengan Linux (dengan driver tambahan), digunakan untuk partisi bersama di sistem dual-boot.
+5. FAT32: Sistem berkas kompatibel lintas platform (Windows, Linux, macOS), mendukung file hingga 4GB, sering digunakan untuk flash drive.
+6. Btrfs: Sistem berkas canggih dengan fitur seperti snapshotting dan RAID, digunakan pada server atau sistem penyimpanan besar, namun belum se-matang ext4.
 
 
 
