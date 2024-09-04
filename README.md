@@ -75,7 +75,7 @@ Jawab :
 19. Dan terakhir klik install.
     ![Screenshot from 2024-08-29 19-04-58](https://github.com/user-attachments/assets/ecac0637-cdeb-4c58-a09a-b5bba03dfe39)
 
-    Proses instalasinya ini memerlukan waktu yang cukup lama, jadi manfaatkan waktunya selagi menunggu dengan belajar atau melakukan hal yang bermanfaat lainnya (biso maen mobile legend 2 match woilah😹)
+    Proses instalasinya ini memerlukan waktu yang cukup lama, jadi manfaatkan waktunya selagi menunggu dengan belajar atau melakukan hal yang bermanfaat lainnya (biso maen mobile legend 2 match woilah)
 
 
 
